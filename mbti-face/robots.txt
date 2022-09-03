@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: http://mbtiface.ga/sitemap.xml
